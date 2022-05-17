@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" width="500"/>
 </div>
-### Hi there 👋
+<h1>Hi I'm Sagar Aute 👋</h1>
 
 <!--
 **sagar-aute/sagar-aute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
