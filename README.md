@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" height="400" width="600"/>
+  <img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" width="500"/>
 </div>
 ### Hi there 👋
 
