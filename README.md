@@ -17,7 +17,3 @@
 <a href="https://linkedin.com/in/sagar-aute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-aute" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_aute_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_aute_" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-aute&show_icons=true&locale=en&layout=compact" alt="sagar-aute" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-aute&" alt="sagar-aute" /></p>
