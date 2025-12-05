@@ -25,13 +25,6 @@
 </div>
 <br>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sagar-aute&show_icons=true&theme=dark&locale=en" alt="sagar-aute" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-aute&show_icons=true&theme=dark&locale=en&layout=compact" alt="sagar-aute" /></td>
-  </tr>
-</table>
-
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-aute&theme=dark" alt="sagar-aute" /></p>
   </div>
